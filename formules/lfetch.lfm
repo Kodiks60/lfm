@@ -1,0 +1,5 @@
+name="lfetch"
+version="0.0.2"
+description="fastfetch for leaffy fast manager"
+type="compile"
+source="https://github.com/Kodiks60/lfetch/"
