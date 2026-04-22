@@ -1,0 +1,2 @@
+# lfm
+leaffy fast manager
