@@ -1,7 +1,7 @@
-name = "gcc"
-version = "15.2.1"
-description = "GNU C Compiler"
-type = "binary"
-source = "https://github.com/Kodiks60/lfm-packages/releases/download/15.2.1/gcc.lfp"
-size = 524288
-install_cmd = "tar -xzf {SOURCE} -C /opt/leaffy"
+name="gcc"
+version="15.2.1"
+description="GNU C Compiler"
+type="binary"
+source="https://github.com/Kodiks60/lfm-packages/releases/download/15.2.1/gcc.lfp"
+size=524288
+install_cmd="tar -xzf {SOURCE} -C /opt/leaffy"
